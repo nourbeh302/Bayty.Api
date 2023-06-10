@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Omar\\OneDrive - Faculty of Computers and Information\\Desktop\\GraduationProject\\AkaratAPIs\\wwwroot\\Images\\Users\\noimage.png",
+      "PackagePath": "staticwebassets\\Images\\Users\\noimage.png"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.BaytyAPIs.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.BaytyAPIs.props",
+      "PackagePath": "build\\BaytyAPIs.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BaytyAPIs.props",
+      "PackagePath": "buildMultiTargeting\\BaytyAPIs.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.BaytyAPIs.props",
+      "PackagePath": "buildTransitive\\BaytyAPIs.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

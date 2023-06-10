@@ -1,0 +1,51 @@
+D:\GraduationProject\GraduationProject\EF Modeling\bin\Debug\net7.0\EF Modeling.deps.json
+D:\GraduationProject\GraduationProject\EF Modeling\bin\Debug\net7.0\EF Modeling.runtimeconfig.json
+D:\GraduationProject\GraduationProject\EF Modeling\bin\Debug\net7.0\EF Modeling.dll
+D:\GraduationProject\GraduationProject\EF Modeling\bin\Debug\net7.0\EF Modeling.pdb
+D:\GraduationProject\GraduationProject\EF Modeling\bin\Debug\net7.0\Models.dll
+D:\GraduationProject\GraduationProject\EF Modeling\bin\Debug\net7.0\Models.pdb
+D:\GraduationProject\GraduationProject\EF Modeling\obj\Debug\net7.0\EF Modeling.csproj.AssemblyReference.cache
+D:\GraduationProject\GraduationProject\EF Modeling\obj\Debug\net7.0\EF Modeling.GeneratedMSBuildEditorConfig.editorconfig
+D:\GraduationProject\GraduationProject\EF Modeling\obj\Debug\net7.0\EF Modeling.AssemblyInfoInputs.cache
+D:\GraduationProject\GraduationProject\EF Modeling\obj\Debug\net7.0\EF Modeling.AssemblyInfo.cs
+D:\GraduationProject\GraduationProject\EF Modeling\obj\Debug\net7.0\EF Modeling.csproj.CoreCompileInputs.cache
+D:\GraduationProject\GraduationProject\EF Modeling\obj\Debug\net7.0\EF Modeling.csproj.CopyComplete
+D:\GraduationProject\GraduationProject\EF Modeling\obj\Debug\net7.0\EF Modeling.dll
+D:\GraduationProject\GraduationProject\EF Modeling\obj\Debug\net7.0\refint\EF Modeling.dll
+D:\GraduationProject\GraduationProject\EF Modeling\obj\Debug\net7.0\EF Modeling.pdb
+D:\GraduationProject\GraduationProject\EF Modeling\obj\Debug\net7.0\EF Modeling.genruntimeconfig.cache
+D:\GraduationProject\GraduationProject\EF Modeling\obj\Debug\net7.0\ref\EF Modeling.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\EF Modeling\bin\Debug\net7.0\EF Modeling.deps.json
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\EF Modeling\bin\Debug\net7.0\EF Modeling.runtimeconfig.json
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\EF Modeling\bin\Debug\net7.0\EF Modeling.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\EF Modeling\bin\Debug\net7.0\EF Modeling.pdb
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\EF Modeling\bin\Debug\net7.0\Models.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\EF Modeling\bin\Debug\net7.0\Models.pdb
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\EF Modeling\obj\Debug\net7.0\EF Modeling.csproj.AssemblyReference.cache
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\EF Modeling\obj\Debug\net7.0\EF Modeling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\EF Modeling\obj\Debug\net7.0\EF Modeling.AssemblyInfoInputs.cache
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\EF Modeling\obj\Debug\net7.0\EF Modeling.AssemblyInfo.cs
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\EF Modeling\obj\Debug\net7.0\EF Modeling.csproj.CoreCompileInputs.cache
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\EF Modeling\obj\Debug\net7.0\EF Modeling.csproj.CopyComplete
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\EF Modeling\obj\Debug\net7.0\EF Modeling.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\EF Modeling\obj\Debug\net7.0\refint\EF Modeling.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\EF Modeling\obj\Debug\net7.0\EF Modeling.pdb
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\EF Modeling\obj\Debug\net7.0\EF Modeling.genruntimeconfig.cache
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\EF Modeling\obj\Debug\net7.0\ref\EF Modeling.dll
+C:\Users\noure\Downloads\GraduationProject05\EF Modeling\bin\Debug\net7.0\EF Modeling.deps.json
+C:\Users\noure\Downloads\GraduationProject05\EF Modeling\bin\Debug\net7.0\EF Modeling.runtimeconfig.json
+C:\Users\noure\Downloads\GraduationProject05\EF Modeling\bin\Debug\net7.0\EF Modeling.dll
+C:\Users\noure\Downloads\GraduationProject05\EF Modeling\bin\Debug\net7.0\EF Modeling.pdb
+C:\Users\noure\Downloads\GraduationProject05\EF Modeling\bin\Debug\net7.0\Models.dll
+C:\Users\noure\Downloads\GraduationProject05\EF Modeling\bin\Debug\net7.0\Models.pdb
+C:\Users\noure\Downloads\GraduationProject05\EF Modeling\obj\Debug\net7.0\EF Modeling.csproj.AssemblyReference.cache
+C:\Users\noure\Downloads\GraduationProject05\EF Modeling\obj\Debug\net7.0\EF Modeling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noure\Downloads\GraduationProject05\EF Modeling\obj\Debug\net7.0\EF Modeling.AssemblyInfoInputs.cache
+C:\Users\noure\Downloads\GraduationProject05\EF Modeling\obj\Debug\net7.0\EF Modeling.AssemblyInfo.cs
+C:\Users\noure\Downloads\GraduationProject05\EF Modeling\obj\Debug\net7.0\EF Modeling.csproj.CoreCompileInputs.cache
+C:\Users\noure\Downloads\GraduationProject05\EF Modeling\obj\Debug\net7.0\EF Modeling.csproj.CopyComplete
+C:\Users\noure\Downloads\GraduationProject05\EF Modeling\obj\Debug\net7.0\EF Modeling.dll
+C:\Users\noure\Downloads\GraduationProject05\EF Modeling\obj\Debug\net7.0\refint\EF Modeling.dll
+C:\Users\noure\Downloads\GraduationProject05\EF Modeling\obj\Debug\net7.0\EF Modeling.pdb
+C:\Users\noure\Downloads\GraduationProject05\EF Modeling\obj\Debug\net7.0\EF Modeling.genruntimeconfig.cache
+C:\Users\noure\Downloads\GraduationProject05\EF Modeling\obj\Debug\net7.0\ref\EF Modeling.dll

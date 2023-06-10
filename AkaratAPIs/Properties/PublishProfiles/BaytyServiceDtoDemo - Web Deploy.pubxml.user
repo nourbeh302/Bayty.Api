@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAQngpEJDFI06V7v7lxq5pkgAAAAACAAAAAAAQZgAAAAEAACAAAABZnuP1Y1AYZDZJU0cKox6jpYc96tYPhqtPqoEQc59nIQAAAAAOgAAAAAIAACAAAAD2SUXh0WxqyAjxLHsgNMxBgtPEcNImru/YYAnE9K/K7IAAAAAKN8SDrBxKnfTuFTsvhe67ZSPn1mt77UNFcLi0pR18BYkZPC2zxCfIiLGr+gHHq4RRxFjhDuE7n4qipumY05BEr209eHhJwT8WkoaThxslIqsA1s/ZRhcOQXb/3NzgZRHI9+uohX6fQC0lf3tEx4SkamJNqkDZtTNlhGxH/4TNnUAAAACLO5rDOcBmQU+lJdQG+9AyGMeCmKLM36MHIQFd5Bv7GnWSjSgXOCdTlMiT6n/jEmDwJN3+FaBPgLZnr0PlXuTD</EncryptedPassword>
+    <History>True|2023-06-09T00:11:44.9887204Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="EF_Modeling.AppDbContext">
+      <Value>Data Source=baytyapisdbserver.database.windows.net,1433%3bInitial Catalog=BaytyAPIs_db_DEMO%3bUser ID=omardemo%3bPassword=AOKK_2000</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

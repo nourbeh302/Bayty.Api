@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "fpIQaXgjMybsZEzJllMmFIxQYNY4prYCncti3bqwmNs=",
+  "Source": "BaytyAPIs",
+  "BasePath": "_content/BaytyAPIs",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BaytyAPIs\\wwwroot",
+      "Source": "BaytyAPIs",
+      "ContentRoot": "C:\\Users\\Omar\\OneDrive - Faculty of Computers and Information\\Desktop\\GraduationProject\\AkaratAPIs\\wwwroot\\",
+      "BasePath": "_content/BaytyAPIs",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Omar\\OneDrive - Faculty of Computers and Information\\Desktop\\GraduationProject\\AkaratAPIs\\wwwroot\\Images\\Users\\noimage.png",
+      "SourceId": "BaytyAPIs",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Omar\\OneDrive - Faculty of Computers and Information\\Desktop\\GraduationProject\\AkaratAPIs\\wwwroot\\",
+      "BasePath": "_content/BaytyAPIs",
+      "RelativePath": "Images/Users/noimage.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Users\\noimage.png"
+    }
+  ]
+}

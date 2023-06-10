@@ -1,0 +1,321 @@
+D:\GraduationProject\GraduationProject\AkaratAPIs\obj\Debug\net7.0\BaytyAPIs.csproj.AssemblyReference.cache
+D:\GraduationProject\GraduationProject\AkaratAPIs\obj\Debug\net7.0\BaytyAPIs.GeneratedMSBuildEditorConfig.editorconfig
+D:\GraduationProject\GraduationProject\AkaratAPIs\obj\Debug\net7.0\BaytyAPIs.AssemblyInfoInputs.cache
+D:\GraduationProject\GraduationProject\AkaratAPIs\obj\Debug\net7.0\BaytyAPIs.AssemblyInfo.cs
+D:\GraduationProject\GraduationProject\AkaratAPIs\obj\Debug\net7.0\BaytyAPIs.csproj.CoreCompileInputs.cache
+D:\GraduationProject\GraduationProject\AkaratAPIs\obj\Debug\net7.0\BaytyAPIs.MvcApplicationPartsAssemblyInfo.cs
+D:\GraduationProject\GraduationProject\AkaratAPIs\obj\Debug\net7.0\BaytyAPIs.MvcApplicationPartsAssemblyInfo.cache
+D:\GraduationProject\GraduationProject\AkaratAPIs\obj\Debug\net7.0\BaytyAPIs.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\obj\Debug\net7.0\refint\BaytyAPIs.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\obj\Debug\net7.0\BaytyAPIs.pdb
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\appsettings.Development.json
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\appsettings.json
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\BaytyAPIs.exe
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\BaytyAPIs.deps.json
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\BaytyAPIs.runtimeconfig.json
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\BaytyAPIs.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\BaytyAPIs.pdb
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\AutoMapper.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Azure.Core.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Azure.Identity.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\FluentValidation.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Humanizer.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Serilog.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Serilog.AspNetCore.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Serilog.Sinks.File.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\System.CodeDom.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\System.Memory.Data.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\EF Modeling.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Models.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\EF Modeling.pdb
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Models.pdb
+D:\GraduationProject\GraduationProject\AkaratAPIs\obj\Debug\net7.0\staticwebassets\msbuild.BaytyAPIs.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GraduationProject\GraduationProject\AkaratAPIs\obj\Debug\net7.0\staticwebassets\msbuild.build.BaytyAPIs.props
+D:\GraduationProject\GraduationProject\AkaratAPIs\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BaytyAPIs.props
+D:\GraduationProject\GraduationProject\AkaratAPIs\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BaytyAPIs.props
+D:\GraduationProject\GraduationProject\AkaratAPIs\obj\Debug\net7.0\staticwebassets.pack.json
+D:\GraduationProject\GraduationProject\AkaratAPIs\obj\Debug\net7.0\staticwebassets.build.json
+D:\GraduationProject\GraduationProject\AkaratAPIs\obj\Debug\net7.0\staticwebassets.development.json
+D:\GraduationProject\GraduationProject\AkaratAPIs\obj\Debug\net7.0\scopedcss\bundle\BaytyAPIs.styles.css
+D:\GraduationProject\GraduationProject\AkaratAPIs\obj\Debug\net7.0\BaytyAPIs.csproj.CopyComplete
+D:\GraduationProject\GraduationProject\AkaratAPIs\obj\Debug\net7.0\BaytyAPIs.genruntimeconfig.cache
+D:\GraduationProject\GraduationProject\AkaratAPIs\obj\Debug\net7.0\ref\BaytyAPIs.dll
+D:\GraduationProject\GraduationProject\AkaratAPIs\bin\Debug\net7.0\BaytyAPIs.staticwebassets.runtime.json
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\appsettings.json
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\BaytyAPIs.staticwebassets.runtime.json
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\BaytyAPIs.exe
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\BaytyAPIs.deps.json
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\BaytyAPIs.runtimeconfig.json
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\BaytyAPIs.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\BaytyAPIs.pdb
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Serilog.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Serilog.AspNetCore.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\EF Modeling.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Models.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\EF Modeling.pdb
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\bin\Debug\net7.0\Models.pdb
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\obj\Debug\net7.0\BaytyAPIs.csproj.AssemblyReference.cache
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\obj\Debug\net7.0\BaytyAPIs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\obj\Debug\net7.0\BaytyAPIs.AssemblyInfoInputs.cache
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\obj\Debug\net7.0\BaytyAPIs.AssemblyInfo.cs
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\obj\Debug\net7.0\BaytyAPIs.csproj.CoreCompileInputs.cache
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\obj\Debug\net7.0\BaytyAPIs.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\obj\Debug\net7.0\BaytyAPIs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\obj\Debug\net7.0\staticwebassets\msbuild.BaytyAPIs.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\obj\Debug\net7.0\staticwebassets\msbuild.build.BaytyAPIs.props
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BaytyAPIs.props
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BaytyAPIs.props
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\obj\Debug\net7.0\scopedcss\bundle\BaytyAPIs.styles.css
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\obj\Debug\net7.0\BaytyAPIs.csproj.CopyComplete
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\obj\Debug\net7.0\BaytyAPIs.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\obj\Debug\net7.0\refint\BaytyAPIs.dll
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\obj\Debug\net7.0\BaytyAPIs.pdb
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\obj\Debug\net7.0\BaytyAPIs.genruntimeconfig.cache
+C:\Users\Omar\OneDrive - Faculty of Computers and Information\Desktop\GraduationProject\AkaratAPIs\obj\Debug\net7.0\ref\BaytyAPIs.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\appsettings.json
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\BaytyAPIs.staticwebassets.runtime.json
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\BaytyAPIs.exe
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\BaytyAPIs.deps.json
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\BaytyAPIs.runtimeconfig.json
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\BaytyAPIs.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\BaytyAPIs.pdb
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\Humanizer.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\Serilog.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\Serilog.AspNetCore.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\EF Modeling.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\Models.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\EF Modeling.pdb
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\bin\Debug\net7.0\Models.pdb
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\obj\Debug\net7.0\BaytyAPIs.csproj.AssemblyReference.cache
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\obj\Debug\net7.0\BaytyAPIs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\obj\Debug\net7.0\BaytyAPIs.AssemblyInfoInputs.cache
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\obj\Debug\net7.0\BaytyAPIs.AssemblyInfo.cs
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\obj\Debug\net7.0\BaytyAPIs.csproj.CoreCompileInputs.cache
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\obj\Debug\net7.0\BaytyAPIs.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\obj\Debug\net7.0\BaytyAPIs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\obj\Debug\net7.0\staticwebassets\msbuild.BaytyAPIs.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\obj\Debug\net7.0\staticwebassets\msbuild.build.BaytyAPIs.props
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BaytyAPIs.props
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BaytyAPIs.props
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\obj\Debug\net7.0\scopedcss\bundle\BaytyAPIs.styles.css
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\obj\Debug\net7.0\BaytyAPIs.csproj.CopyComplete
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\obj\Debug\net7.0\BaytyAPIs.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\obj\Debug\net7.0\refint\BaytyAPIs.dll
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\obj\Debug\net7.0\BaytyAPIs.pdb
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\obj\Debug\net7.0\BaytyAPIs.genruntimeconfig.cache
+C:\Users\noure\Downloads\GraduationProject05\AkaratAPIs\obj\Debug\net7.0\ref\BaytyAPIs.dll
