@@ -1,7 +1,9 @@
-﻿using AqaratAPIs.DTOs.AdvertisementDTOs;
+﻿using System.Security.Claims;
+using AqaratAPIs.DTOs.AdvertisementDTOs;
 using AutoMapper;
 using BaytyAPIs.Constants;
 using BaytyAPIs.DTOs.AdvertisementDTOs;
+using BaytyAPIs.Security.AddPostSecurityRequirements;
 using BaytyAPIs.Services.PropertyFactory;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
@@ -115,7 +117,7 @@ namespace AqaratAPIs.Controllers
         }
 
         [HttpPost]
-        // [Authorize(Policy = "Add-Post")]
+        [Authorize(Policy = "Add-Post")]
         public async Task<ActionResult> AddAdvertisement([FromForm] AdDTO model)
         {
             if (ModelState.IsValid)
@@ -207,13 +209,13 @@ namespace AqaratAPIs.Controllers
                     if (int.TryParse(Request.Headers["page-size"], out int requiredPageSize)
                     &&
                        int.TryParse(Request.Headers["page-number"], out int requiredNumberSize))
-                    {   
+                    {
                         List<Advertisement> ads;
                         int count = 0;
                         (ads, count) = await _dataStore.Advertisements.SearchAds
                             (
                                 requiredPageSize, requiredNumberSize, dto.MinPrice, dto.MaxPrice,
-                                dto.PropertyType, dto.Order, dto.IsRent, dto.MinPrice, dto.MaxPrice
+                                dto.PropertyType, dto.Order, dto.IsRent, dto.minArea, dto.maxArea
                             );
 
                         Response.Headers["Pages-Count"] = count.ToString();

@@ -145,6 +145,7 @@ public class AuthService : IAuthService
 
         var encodedEmailAsString = _protector.Protect(user.Email);
 
+        userClaims.Add(new Claim("UserId", user.Id));
         userClaims.Add(new Claim("Email", encodedEmailAsString));
 
         var symmetricKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_jwt.Key));
@@ -157,7 +158,7 @@ public class AuthService : IAuthService
             claims: userClaims,
             signingCredentials: signingCredentials,
             notBefore: DateTime.Now,
-            expires: DateTime.Now.AddSeconds(_jwt.LifttimeInMinutes).ToLocalTime());
+            expires: DateTime.Now.AddHours(_jwt.LifttimeInMinutes).ToLocalTime());
 
         return new JwtSecurityTokenHandler().WriteToken(jwtSecurityToken);
     }

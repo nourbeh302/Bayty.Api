@@ -15,9 +15,12 @@ public class RefreshTokenMWHandler
     {
         bool reAuthUser = false;
 
-        string accessToken = context.Request.Headers["Authorization"];
+        string accessToken = context.Request.Headers["authorization"];
 
         string refreshToken = context.Request.Headers["refresh-token"];
+
+        Console.WriteLine(accessToken);
+        Console.WriteLine(refreshToken);
 
         if (accessToken != null && refreshToken != null)
         {
@@ -41,7 +44,7 @@ public class RefreshTokenMWHandler
                 {
                     accessToken = await _authService.GetAccessTokenAsync(email: email);
 
-                    context.Request.Headers["Authorization"] = $"Bearer {accessToken}";
+                    context.Request.Headers["authorization"] = $"Bearer {accessToken}";
 
                     reAuthUser = true;
                 }
@@ -52,7 +55,7 @@ public class RefreshTokenMWHandler
 
         if (reAuthUser)
         {
-            context.Response.Headers["Authorization"] = $"Bearer {accessToken}";
+            context.Response.Headers["authorization"] = $"Bearer {accessToken}";
         }
     }
 }

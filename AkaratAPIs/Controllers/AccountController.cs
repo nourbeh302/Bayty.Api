@@ -60,7 +60,7 @@ namespace AkaratAPIs.Controllers
         [ProducesResponseType(StatusCodes.Status400BadRequest, Type = typeof(AuthDTO))]
         [ProducesResponseType(StatusCodes.Status500InternalServerError, Type = typeof(AuthDTO))]
         [ProducesResponseType(StatusCodes.Status400BadRequest, Type = typeof(LoginDTO))]
-        public async Task<ActionResult<AuthDTO>> Login([FromBody]LoginDTO model)
+        public async Task<ActionResult<AuthDTO>> Login([FromBody] LoginDTO model)
         {
             if (ModelState.IsValid)
             {
@@ -73,7 +73,8 @@ namespace AkaratAPIs.Controllers
 
                     return BadRequest(authDto);
 
-                } catch
+                }
+                catch
                 {
                     return StatusCode(StatusCodes.Status500InternalServerError);
                 }
@@ -108,7 +109,7 @@ namespace AkaratAPIs.Controllers
         [ProducesResponseType(StatusCodes.Status200OK, Type = typeof(string))]
         [ProducesResponseType(StatusCodes.Status404NotFound, Type = typeof(string))]
         [ProducesResponseType(StatusCodes.Status400BadRequest, Type = typeof(RegisterDTO))]
-        public async Task<ActionResult> Register([FromBody]RegisterDTO model)
+        public async Task<ActionResult> Register([FromBody] RegisterDTO model)
         {
             if (ModelState.IsValid)
             {
@@ -143,7 +144,8 @@ namespace AkaratAPIs.Controllers
                     {
                         return BadRequest(authModel);
                     }
-                } catch (Exception ex)
+                }
+                catch (Exception ex)
                 {
                     Console.WriteLine($"{ex.Message}");
                     return StatusCode(StatusCodes.Status500InternalServerError, "Server has internal errors!");
@@ -192,26 +194,33 @@ namespace AkaratAPIs.Controllers
             return new RedirectResult("http://localhost:4200/registerationCompleted");
         }
 
-        [HttpGet]
+        [HttpGet("{userId}")]
         [Authorize]
         public async Task<ActionResult> AskForPhoneNumberVerification(string userId)
         {
-            var user = await _userManager.FindByIdAsync(userId);
+            try
+            {
+                var user = await _userManager.FindByIdAsync(userId);
 
-            if (user is null)
-                return Ok(AuthMessages.NotFoundUser);
+                if (user == null)
+                    return NotFound(AuthMessages.NotFoundUser);
 
-            if (user.isPhoneNumberVerified)
-                return Conflict("Phone Number Is Already Verified");
+                if (user.isPhoneNumberVerified)
+                    return Conflict("Phone Number Is Already Verified");
 
-            var token = _authService.GetPhoneNumberToken(userId);
+                var token = _authService.GetPhoneNumberToken(userId);
 
-            var result = await _smsService.SendSMSAsync(user.PhoneNumber, token);
+                var result = await _smsService.SendSMSAsync(user.PhoneNumber, token);
 
-            if (result.Status == 0)
-                return Ok("We have just sent a token to your phone number, please verify it within 2 minutes.");
-            else
-                return Conflict("Sorry!!!!");
+                if (result.Status == 0)
+                    return Ok("We have just sent a token to your phone number, please verify it within 2 minutes.");
+                else
+                    return Conflict("Sorry!!!!");
+            }
+            catch (System.Exception ex)
+            {
+                return StatusCode(StatusCodes.Status500InternalServerError, ex.Message);
+            }
         }
 
         [HttpPost]
@@ -221,13 +230,16 @@ namespace AkaratAPIs.Controllers
             var user = await _userManager.FindByIdAsync(verificationDTO.userId);
 
             if (user == null)
-                return Ok(AuthMessages.NotFoundUser);
+                return NotFound(AuthMessages.NotFoundUser);
 
             if (user.isPhoneNumberVerified)
                 return Ok("Phone Number Is Already Verified");
 
             if (await _authService.VerifyPhoneNumberToken(user, verificationDTO.token))
+            {
+                await _userManager.AddClaimAsync(user, new Claim("PhoneVerified", "True"));
                 return Ok("Phone Number Verified Successfully");
+            }
 
             return Conflict("We Are Sorry");
         }
@@ -257,7 +269,8 @@ namespace AkaratAPIs.Controllers
         [Authorize]
         public async Task<ActionResult> ChangePhoneNumber(ChangePhoneNumberDTO dto)
         {
-            try {
+            try
+            {
                 var user = await _userManager.FindByIdAsync(dto.UserId);
 
                 if (user == null)
@@ -281,7 +294,9 @@ namespace AkaratAPIs.Controllers
 
                 return Ok("Phone number changed successfully");
 
-            } catch {
+            }
+            catch
+            {
                 return StatusCode(StatusCodes.Status500InternalServerError, "Error Happend At Server");
             }
         }
@@ -303,7 +318,8 @@ namespace AkaratAPIs.Controllers
 
                 return Ok("Use the generated token to change your email.");
 
-            } catch
+            }
+            catch
             {
                 return StatusCode(StatusCodes.Status503ServiceUnavailable);
             }
@@ -363,7 +379,8 @@ namespace AkaratAPIs.Controllers
 
                 return BadRequest(errors);
 
-            } catch (Exception ex)
+            }
+            catch (Exception ex)
             {
                 await Console.Out.WriteLineAsync(ex.Message);
                 return StatusCode(StatusCodes.Status500InternalServerError);
@@ -383,7 +400,7 @@ namespace AkaratAPIs.Controllers
 
                 var token = await _userManager.GeneratePasswordResetTokenAsync(user);
 
-                string protectedToken = _protectors["Id"].Protect(token);
+                string protectedToken = _protectors["Token"].Protect(token);
                 string protectedUserId = _protectors["Id"].Protect(user.Id);
 
                 string link = @$"https://localhost:4200/reset-password?token={protectedToken}&userId={protectedUserId}";
@@ -447,7 +464,7 @@ namespace AkaratAPIs.Controllers
                 return NoContent();
 
             }
-             catch
+            catch
             {
                 return StatusCode(StatusCodes.Status500InternalServerError);
             }
@@ -484,7 +501,7 @@ namespace AkaratAPIs.Controllers
         {
             try
             {
-                var user = _userManager.FindByIdAsync(userId);
+                var user = await _userManager.FindByIdAsync(userId);
 
                 if (user == null)
                 {

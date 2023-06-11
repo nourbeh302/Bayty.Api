@@ -12,22 +12,37 @@ namespace BaytyAPIs.Security.AddPostSecurityRequirements
             _dataStore = dataStore;
         }
 
-        protected async override Task HandleRequirementAsync(AuthorizationHandlerContext context, AddPostRequirement requirement)
+        protected async override Task<Task> HandleRequirementAsync(AuthorizationHandlerContext context, AddPostRequirement requirement)
         {
             if (context.User.IsInRole("Admin") || context.User.IsInRole("Enterprise-Agent"))
                 context.Succeed(requirement);
 
-            var userId = context.User.FindFirstValue(ClaimTypes.NameIdentifier);
+            var userId = context.User.FindFirstValue("UserId");
 
-            var userAds = await _dataStore.Advertisements.FindAllAsync(ad => ad.UserId == userId);
+            if (context.User.FindFirstValue("EmailVerified") != null && context.User.FindFirstValue("PhoneVerified") != null)
+            {
+                var userAds = await _dataStore.Advertisements.FindAllAsync(ad => ad.UserId == userId);
 
-            var adsPerYear = userAds.GroupBy(ad => ad.Date.Year);
+                var adsPerYear = userAds.GroupBy(ad => ad.Date.Year);
 
-            foreach (var adListPerYear in adsPerYear)
-                if (adListPerYear.Count() == 5 && adListPerYear.Key == DateTime.Now.Year)
-                    context.Fail();
+                foreach (var adListPerYear in adsPerYear)
+                {
+                    if (adListPerYear.Count() >= 5 && adListPerYear.Key == DateTime.Now.Year)
+                    {
+                        context.Fail();
+                        return Task.CompletedTask;
+                    }
+                }
 
-            context.Succeed(requirement);
+                context.Succeed(requirement);
+                return Task.CompletedTask;
+
+            }
+            else
+            {
+                context.Fail();
+                return Task.CompletedTask;
+            }
         }
     }
 }
