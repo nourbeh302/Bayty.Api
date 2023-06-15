@@ -2,6 +2,7 @@
 using AutoMapper;
 using BaytyAPIs.DTOs.AdvertisementDTOs;
 using Models.Entities;
+using Models.Constants;
 
 namespace AqaratAPIs.Profiles
 {
@@ -20,7 +21,12 @@ namespace AqaratAPIs.Profiles
                 .ForPath(dest => dest.IsForRent, opts => opts.MapFrom(src => src.HouseBase.IsForRent))
                 .ForPath(dest => dest.Price, opts => opts.MapFrom(src => src.HouseBase.Price))
                 .ForPath(dest => dest.Area, opts => opts.MapFrom(src => src.HouseBase.Area))
-                .ForPath(dest => dest.MainImagePath, opts => opts.MapFrom(src => src.HouseBase.HouseBaseImagePaths.FirstOrDefault()));
+                .ForPath(dest => dest.MainImagePath, opts => opts.MapFrom(src => "http://localhost:5034" + src.HouseBase.HouseBaseImagePaths.FirstOrDefault()!.ImagePath))
+                .ForPath(dest => dest.Id, opts => opts.MapFrom(src =>
+                src.PropertyType == PropertyType.Building ? src.Id + "-00" :
+                src.PropertyType == PropertyType.Villa ? src.Id + "-11" :
+                src.PropertyType == PropertyType.Apartment ? src.Id + "-22" : ""
+                ));
         }
     }
 }

@@ -24,6 +24,12 @@ namespace AkaratAPIs.Controllers
             _dataStore = dataStore;
         }
 
+        [HttpGet("/getMessagesForTwoUsers")]
+        public async Task<ActionResult<IEnumerable<Message>>> GetMessagesForTwoUsers(string senderId, string receiverId) { 
+            var messages = await _dataStore.Messages.RetrieveMessageForTwoUsersAsync(senderId, receiverId);
+            return Ok(messages);
+        }
+
         [HttpGet("/messagesList")]
         [Authorize]
         public async Task<ActionResult<IEnumerable<MessageListDTO>>> PrevMessages(string userId)
@@ -65,11 +71,11 @@ namespace AkaratAPIs.Controllers
                 var ws = await HttpContext.WebSockets.AcceptWebSocketAsync();
 
                 if (_wsService.UpdateUser(currentId, ws))
-                    Console.WriteLine($"User With Id:{currentId} Connection Updated Successfully");
+                    Console.WriteLine($"User With Id: {currentId} Connection Updated Successfully");
                 else
                 {
                     _wsService.ConnectUser(currentId, ws);
-                    Console.WriteLine($"User With Id:{currentId} Connected Successfully");
+                    Console.WriteLine($"User With Id: {currentId} Connected Successfully");
                 }
 
                 var msg = new byte[4096];

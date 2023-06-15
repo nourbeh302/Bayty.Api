@@ -218,11 +218,16 @@ namespace AqaratAPIs.Controllers
                                 dto.PropertyType, dto.Order, dto.IsRent, dto.minArea, dto.maxArea
                             );
 
-                        Response.Headers["Pages-Count"] = count.ToString();
+                        Response.Headers.Add("X-Page-Count", count.ToString());
+                        // Response.Headers["Pages-Count"] = count.ToString();
+
+                        Console.WriteLine($"=============${count.ToString()}=============");
 
                         var cards = _mapper.Map<List<Advertisement>, List<AdCardDTO>>(ads);
 
-                        return Ok(cards);
+                        return Ok(new {
+                            cards, count
+                        });
 
                     }
                     return BadRequest("Page Size or Number not mentioned");

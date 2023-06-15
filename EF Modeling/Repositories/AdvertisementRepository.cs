@@ -85,8 +85,8 @@ namespace EF_Modeling.Repositories
                 case "00":
                     var building = await _context.Buildings
                         .Include(b => b.HouseBase)
-                        .ThenInclude(hb => hb.Advertisement)
-                        .ThenInclude(b=>b.HouseBase.HouseBaseImagePaths)
+                        .ThenInclude(hb => hb.HouseBaseImagePaths)
+                        .Include(hb => hb.HouseBase.Advertisement)
                         .FirstOrDefaultAsync(c => c.HouseBase.Advertisement.Id == id);
 
                     ad = building.HouseBase.Advertisement;
@@ -96,8 +96,8 @@ namespace EF_Modeling.Repositories
                 case "11":
                     var villa = await _context.Villas
                         .Include(b => b.HouseBase)
-                        .ThenInclude(hb => hb.Advertisement)
-                        .ThenInclude(b => b.HouseBase.HouseBaseImagePaths)
+                        .ThenInclude(hb => hb.HouseBaseImagePaths)
+                        .Include(hb => hb.HouseBase.Advertisement)
                         .FirstOrDefaultAsync(c => c.HouseBase.Advertisement.Id == id);
 
                     ad = villa.HouseBase.Advertisement;

@@ -21,8 +21,9 @@ namespace EF_Modeling.Repositories
         }
 
         public async Task<IEnumerable<Message>> RetrieveMessageForTwoUsersAsync(string firstUserId, string secondUserId)
-            => await _context.Set<Message>()
-            .Where(m => MessageOwnersValidator(m, firstUserId, secondUserId))
+            => await _context.Messages
+            .Where(m => (m.SenderId == firstUserId && m.ReceiverId == secondUserId) ||
+                        (m.SenderId == secondUserId && m.ReceiverId == firstUserId))
             .ToListAsync();
 
         private bool MessageOwnersValidator(Message message, string firstUserId, string secondUserId)

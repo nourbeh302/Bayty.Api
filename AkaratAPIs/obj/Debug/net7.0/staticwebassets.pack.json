@@ -1,8 +1,16 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\noure\\Downloads\\GraduationProject05\\AkaratAPIs\\wwwroot\\Images\\Properties\\0024d79e-0074-4a51-be88-5d3276620600villa_03.avif",
+      "PackagePath": "staticwebassets\\Images\\Properties\\0024d79e-0074-4a51-be88-5d3276620600villa_03.avif"
+    },
+    {
       "Id": "C:\\Users\\noure\\Downloads\\GraduationProject05\\AkaratAPIs\\wwwroot\\Images\\Properties\\00466dd3-b54b-4e62-9e67-395091aaa1dbvilla_02.avif",
       "PackagePath": "staticwebassets\\Images\\Properties\\00466dd3-b54b-4e62-9e67-395091aaa1dbvilla_02.avif"
+    },
+    {
+      "Id": "C:\\Users\\noure\\Downloads\\GraduationProject05\\AkaratAPIs\\wwwroot\\Images\\Properties\\0851b690-babd-4143-8f9f-0300155dbd7bvilla_02.avif",
+      "PackagePath": "staticwebassets\\Images\\Properties\\0851b690-babd-4143-8f9f-0300155dbd7bvilla_02.avif"
     },
     {
       "Id": "C:\\Users\\noure\\Downloads\\GraduationProject05\\AkaratAPIs\\wwwroot\\Images\\Properties\\08c563be-6eb4-45b5-96e4-a734f457e460villa_02.avif",
@@ -17,8 +25,28 @@
       "PackagePath": "staticwebassets\\Images\\Properties\\0f12994d-0a5e-4e36-9f46-180efd252f2cvilla_02.avif"
     },
     {
+      "Id": "C:\\Users\\noure\\Downloads\\GraduationProject05\\AkaratAPIs\\wwwroot\\Images\\Properties\\1077f43d-5074-4f6a-b74a-92730f0eaccfvilla_03.avif",
+      "PackagePath": "staticwebassets\\Images\\Properties\\1077f43d-5074-4f6a-b74a-92730f0eaccfvilla_03.avif"
+    },
+    {
       "Id": "C:\\Users\\noure\\Downloads\\GraduationProject05\\AkaratAPIs\\wwwroot\\Images\\Properties\\11115484-f277-42cc-bfdf-1ab96b1541b3villa_01.avif",
       "PackagePath": "staticwebassets\\Images\\Properties\\11115484-f277-42cc-bfdf-1ab96b1541b3villa_01.avif"
+    },
+    {
+      "Id": "C:\\Users\\noure\\Downloads\\GraduationProject05\\AkaratAPIs\\wwwroot\\Images\\Properties\\15684db7-3af0-4ae8-bd86-1817b3f7311dvilla_03.avif",
+      "PackagePath": "staticwebassets\\Images\\Properties\\15684db7-3af0-4ae8-bd86-1817b3f7311dvilla_03.avif"
+    },
+    {
+      "Id": "C:\\Users\\noure\\Downloads\\GraduationProject05\\AkaratAPIs\\wwwroot\\Images\\Properties\\15d97d8c-e403-41ff-9da6-49c95144b3afvilla_01.avif",
+      "PackagePath": "staticwebassets\\Images\\Properties\\15d97d8c-e403-41ff-9da6-49c95144b3afvilla_01.avif"
+    },
+    {
+      "Id": "C:\\Users\\noure\\Downloads\\GraduationProject05\\AkaratAPIs\\wwwroot\\Images\\Properties\\169ab956-e887-4069-bd32-6433e3521d23villa_02.avif",
+      "PackagePath": "staticwebassets\\Images\\Properties\\169ab956-e887-4069-bd32-6433e3521d23villa_02.avif"
+    },
+    {
+      "Id": "C:\\Users\\noure\\Downloads\\GraduationProject05\\AkaratAPIs\\wwwroot\\Images\\Properties\\1aa9f59b-cedb-4c4e-ba97-e857b72cebecvilla_02.avif",
+      "PackagePath": "staticwebassets\\Images\\Properties\\1aa9f59b-cedb-4c4e-ba97-e857b72cebecvilla_02.avif"
     },
     {
       "Id": "C:\\Users\\noure\\Downloads\\GraduationProject05\\AkaratAPIs\\wwwroot\\Images\\Properties\\1e20930c-2142-4745-98c9-0d0b64fc0382villa_01.avif",
@@ -37,12 +65,20 @@
       "PackagePath": "staticwebassets\\Images\\Properties\\29f2e61d-30b6-430e-8ea8-364ef3bdb46cvilla_01.avif"
     },
     {
+      "Id": "C:\\Users\\noure\\Downloads\\GraduationProject05\\AkaratAPIs\\wwwroot\\Images\\Properties\\2b6b1331-09a7-4009-80ec-f98713bf17cfvilla_02.avif",
+      "PackagePath": "staticwebassets\\Images\\Properties\\2b6b1331-09a7-4009-80ec-f98713bf17cfvilla_02.avif"
+    },
+    {
       "Id": "C:\\Users\\noure\\Downloads\\GraduationProject05\\AkaratAPIs\\wwwroot\\Images\\Properties\\2e01d852-460d-4d57-97b4-2e3f90234589villa_01.avif",
       "PackagePath": "staticwebassets\\Images\\Properties\\2e01d852-460d-4d57-97b4-2e3f90234589villa_01.avif"
     },
     {
       "Id": "C:\\Users\\noure\\Downloads\\GraduationProject05\\AkaratAPIs\\wwwroot\\Images\\Properties\\2e26a600-621d-4f23-a50b-620639c93beevilla_01.avif",
       "PackagePath": "staticwebassets\\Images\\Properties\\2e26a600-621d-4f23-a50b-620639c93beevilla_01.avif"
+    },
+    {
+      "Id": "C:\\Users\\noure\\Downloads\\GraduationProject05\\AkaratAPIs\\wwwroot\\Images\\Properties\\301c33fa-97a0-44e6-bf68-d827c0348e7cvilla_01.avif",
+      "PackagePath": "staticwebassets\\Images\\Properties\\301c33fa-97a0-44e6-bf68-d827c0348e7cvilla_01.avif"
     },
     {
       "Id": "C:\\Users\\noure\\Downloads\\GraduationProject05\\AkaratAPIs\\wwwroot\\Images\\Properties\\35891628-2d27-4d19-826f-c76938d312a4villa_01.avif",
@@ -65,8 +101,16 @@
       "PackagePath": "staticwebassets\\Images\\Properties\\43dbbc18-c217-4eb9-baa6-24f321fff580villa_01.avif"
     },
     {
+      "Id": "C:\\Users\\noure\\Downloads\\GraduationProject05\\AkaratAPIs\\wwwroot\\Images\\Properties\\4945b0e4-181d-42c8-9d70-6f8bc6af5623villa_01.avif",
+      "PackagePath": "staticwebassets\\Images\\Properties\\4945b0e4-181d-42c8-9d70-6f8bc6af5623villa_01.avif"
+    },
+    {
       "Id": "C:\\Users\\noure\\Downloads\\GraduationProject05\\AkaratAPIs\\wwwroot\\Images\\Properties\\550dba05-cc10-4e3e-992f-f06190403f63villa_03.avif",
       "PackagePath": "staticwebassets\\Images\\Properties\\550dba05-cc10-4e3e-992f-f06190403f63villa_03.avif"
+    },
+    {
+      "Id": "C:\\Users\\noure\\Downloads\\GraduationProject05\\AkaratAPIs\\wwwroot\\Images\\Properties\\55b45785-5aec-4a85-beca-8230589b5eb1villa_03.avif",
+      "PackagePath": "staticwebassets\\Images\\Properties\\55b45785-5aec-4a85-beca-8230589b5eb1villa_03.avif"
     },
     {
       "Id": "C:\\Users\\noure\\Downloads\\GraduationProject05\\AkaratAPIs\\wwwroot\\Images\\Properties\\5e21bebd-7aa4-4423-9d80-112191e2cd5fvilla_01.avif",
@@ -77,12 +121,24 @@
       "PackagePath": "staticwebassets\\Images\\Properties\\628cf18b-9425-464b-8e8c-6cbd7feed751villa_02.avif"
     },
     {
+      "Id": "C:\\Users\\noure\\Downloads\\GraduationProject05\\AkaratAPIs\\wwwroot\\Images\\Properties\\69382320-851c-4f87-aa88-fe2bda38f892villa_01.avif",
+      "PackagePath": "staticwebassets\\Images\\Properties\\69382320-851c-4f87-aa88-fe2bda38f892villa_01.avif"
+    },
+    {
       "Id": "C:\\Users\\noure\\Downloads\\GraduationProject05\\AkaratAPIs\\wwwroot\\Images\\Properties\\707ec42e-683c-4067-98ae-16cd10ca3988villa_03.avif",
       "PackagePath": "staticwebassets\\Images\\Properties\\707ec42e-683c-4067-98ae-16cd10ca3988villa_03.avif"
     },
     {
+      "Id": "C:\\Users\\noure\\Downloads\\GraduationProject05\\AkaratAPIs\\wwwroot\\Images\\Properties\\74b74d56-4ae5-4fb2-986f-f03e2b9a6654villa_02.avif",
+      "PackagePath": "staticwebassets\\Images\\Properties\\74b74d56-4ae5-4fb2-986f-f03e2b9a6654villa_02.avif"
+    },
+    {
       "Id": "C:\\Users\\noure\\Downloads\\GraduationProject05\\AkaratAPIs\\wwwroot\\Images\\Properties\\766354bc-8a44-4cf3-bb22-3aa417602784villa_03.avif",
       "PackagePath": "staticwebassets\\Images\\Properties\\766354bc-8a44-4cf3-bb22-3aa417602784villa_03.avif"
+    },
+    {
+      "Id": "C:\\Users\\noure\\Downloads\\GraduationProject05\\AkaratAPIs\\wwwroot\\Images\\Properties\\79b0e138-2390-4d39-8ae9-29e192b830c3villa_02.avif",
+      "PackagePath": "staticwebassets\\Images\\Properties\\79b0e138-2390-4d39-8ae9-29e192b830c3villa_02.avif"
     },
     {
       "Id": "C:\\Users\\noure\\Downloads\\GraduationProject05\\AkaratAPIs\\wwwroot\\Images\\Properties\\7f866dce-5c93-4dfb-97a8-aa5d066c0a26villa_01.avif",
@@ -109,6 +165,10 @@
       "PackagePath": "staticwebassets\\Images\\Properties\\91151e77-d564-4e66-b15c-6c96c2329f69villa_02.avif"
     },
     {
+      "Id": "C:\\Users\\noure\\Downloads\\GraduationProject05\\AkaratAPIs\\wwwroot\\Images\\Properties\\9601790a-b2f0-4264-9bdc-445fc20a80dfvilla_03.avif",
+      "PackagePath": "staticwebassets\\Images\\Properties\\9601790a-b2f0-4264-9bdc-445fc20a80dfvilla_03.avif"
+    },
+    {
       "Id": "C:\\Users\\noure\\Downloads\\GraduationProject05\\AkaratAPIs\\wwwroot\\Images\\Properties\\9c037b55-a42b-4247-bca1-6412f2fc7f5avilla_02.avif",
       "PackagePath": "staticwebassets\\Images\\Properties\\9c037b55-a42b-4247-bca1-6412f2fc7f5avilla_02.avif"
     },
@@ -133,6 +193,10 @@
       "PackagePath": "staticwebassets\\Images\\Properties\\a6da9e8e-c875-4682-9ed2-0a0cdf248812villa_01.avif"
     },
     {
+      "Id": "C:\\Users\\noure\\Downloads\\GraduationProject05\\AkaratAPIs\\wwwroot\\Images\\Properties\\a94bf8b2-e910-46d5-8587-100137fdf3efvilla_03.avif",
+      "PackagePath": "staticwebassets\\Images\\Properties\\a94bf8b2-e910-46d5-8587-100137fdf3efvilla_03.avif"
+    },
+    {
       "Id": "C:\\Users\\noure\\Downloads\\GraduationProject05\\AkaratAPIs\\wwwroot\\Images\\Properties\\aa51dd1e-2135-48c3-b673-d9ba7ecad262villa_03.avif",
       "PackagePath": "staticwebassets\\Images\\Properties\\aa51dd1e-2135-48c3-b673-d9ba7ecad262villa_03.avif"
     },
@@ -143,6 +207,10 @@
     {
       "Id": "C:\\Users\\noure\\Downloads\\GraduationProject05\\AkaratAPIs\\wwwroot\\Images\\Properties\\b2356612-65cd-49fd-b7ad-81b9b711b463villa_02.avif",
       "PackagePath": "staticwebassets\\Images\\Properties\\b2356612-65cd-49fd-b7ad-81b9b711b463villa_02.avif"
+    },
+    {
+      "Id": "C:\\Users\\noure\\Downloads\\GraduationProject05\\AkaratAPIs\\wwwroot\\Images\\Properties\\b2c0580c-de34-4773-af1e-b6645991dd57villa_01.avif",
+      "PackagePath": "staticwebassets\\Images\\Properties\\b2c0580c-de34-4773-af1e-b6645991dd57villa_01.avif"
     },
     {
       "Id": "C:\\Users\\noure\\Downloads\\GraduationProject05\\AkaratAPIs\\wwwroot\\Images\\Properties\\be040b18-5635-4fa4-a615-5a5412ae1ed6villa_02.avif",
@@ -157,6 +225,10 @@
       "PackagePath": "staticwebassets\\Images\\Properties\\cb6ea8e2-c721-4658-a6c0-9a4751e88b2dvilla_02.avif"
     },
     {
+      "Id": "C:\\Users\\noure\\Downloads\\GraduationProject05\\AkaratAPIs\\wwwroot\\Images\\Properties\\cf983bfc-5906-460e-8656-c7886e662c1evilla_03.avif",
+      "PackagePath": "staticwebassets\\Images\\Properties\\cf983bfc-5906-460e-8656-c7886e662c1evilla_03.avif"
+    },
+    {
       "Id": "C:\\Users\\noure\\Downloads\\GraduationProject05\\AkaratAPIs\\wwwroot\\Images\\Properties\\d5f6a3d0-e61b-4dcd-a651-3323f7d3f1edvilla_01.avif",
       "PackagePath": "staticwebassets\\Images\\Properties\\d5f6a3d0-e61b-4dcd-a651-3323f7d3f1edvilla_01.avif"
     },
@@ -165,8 +237,16 @@
       "PackagePath": "staticwebassets\\Images\\Properties\\da84af92-3b64-4167-b9b0-691d014ad82dvilla_03.avif"
     },
     {
+      "Id": "C:\\Users\\noure\\Downloads\\GraduationProject05\\AkaratAPIs\\wwwroot\\Images\\Properties\\e1406c20-a995-4a12-a878-b04b2245d0e2villa_01.avif",
+      "PackagePath": "staticwebassets\\Images\\Properties\\e1406c20-a995-4a12-a878-b04b2245d0e2villa_01.avif"
+    },
+    {
       "Id": "C:\\Users\\noure\\Downloads\\GraduationProject05\\AkaratAPIs\\wwwroot\\Images\\Properties\\e1415e69-2583-42a0-91cc-7b119d739332villa_02.avif",
       "PackagePath": "staticwebassets\\Images\\Properties\\e1415e69-2583-42a0-91cc-7b119d739332villa_02.avif"
+    },
+    {
+      "Id": "C:\\Users\\noure\\Downloads\\GraduationProject05\\AkaratAPIs\\wwwroot\\Images\\Properties\\e2e04cab-3d58-40e2-9b98-a7737f516f7avilla_02.avif",
+      "PackagePath": "staticwebassets\\Images\\Properties\\e2e04cab-3d58-40e2-9b98-a7737f516f7avilla_02.avif"
     },
     {
       "Id": "C:\\Users\\noure\\Downloads\\GraduationProject05\\AkaratAPIs\\wwwroot\\Images\\Properties\\e391680e-e62b-410e-84f3-9ea348efd777villa_01.avif",
@@ -175,6 +255,10 @@
     {
       "Id": "C:\\Users\\noure\\Downloads\\GraduationProject05\\AkaratAPIs\\wwwroot\\Images\\Properties\\e3ab3bab-f807-42bb-a335-7eb116759002villa_03.avif",
       "PackagePath": "staticwebassets\\Images\\Properties\\e3ab3bab-f807-42bb-a335-7eb116759002villa_03.avif"
+    },
+    {
+      "Id": "C:\\Users\\noure\\Downloads\\GraduationProject05\\AkaratAPIs\\wwwroot\\Images\\Properties\\eeb5f947-bd50-4d02-af55-4a3e36fbfb12villa_01.avif",
+      "PackagePath": "staticwebassets\\Images\\Properties\\eeb5f947-bd50-4d02-af55-4a3e36fbfb12villa_01.avif"
     },
     {
       "Id": "C:\\Users\\noure\\Downloads\\GraduationProject05\\AkaratAPIs\\wwwroot\\Images\\Properties\\f01c75ed-2046-4306-be15-4f72dc5b5c9avilla_03.avif",
